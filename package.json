@@ -1,0 +1,24 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deletevochrome/backend-project-44.git"
+  },
+  "author": "mamba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deletevochrome/backend-project-44/issues"
+  },
+  "homepage": "https://github.com/deletevochrome/backend-project-44#readme",
+  "dependencies": {
+    "ci": "^2.2.0",
+    "make": "^0.8.1"
+  }
+}
