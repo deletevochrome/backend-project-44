@@ -22,6 +22,7 @@
   "homepage": "https://github.com/deletevochrome/backend-project-44#readme",
   "dependencies": {
     "ci": "^2.2.0",
-    "make": "^0.8.1"
+    "make": "^0.8.1",
+    "readline-sync": "^1.4.10"
   }
 }
