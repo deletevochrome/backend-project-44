@@ -4,19 +4,19 @@ import randomInt from '../utils.js';
 
 const descGcd = 'Find the greatest common divisor of given numbers.';
 
-const gcdOfTwo = (first, second) => {
-  if (second) {
-    return gcdOfTwo(second, first % second);
+const gcdOfTwo = (a, b) => {
+  if (b) {
+    return gcdOfTwo(b, a % b);
   }
-  return first;
+  return Math.abs(a);
 };
 
 const gameGcd = () => {
   const first = randomInt(1, 100);
   const second = randomInt(1, 100);
-  const favorit = `${first} ${second}`;
-  const vold = String(gcdOfTwo(first, second));
-  return [favorit, vold];
+  const question = `${first} ${second}`;
+  const rightAnswer = String(gcdOfTwo(first, second));
+  return [question, rightAnswer];
 };
 
 const playGcd = () => {
