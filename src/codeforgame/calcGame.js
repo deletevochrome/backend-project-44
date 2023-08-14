@@ -5,6 +5,7 @@ import randomInt from '../utils.js';
 const descCalc = 'What is the result of the expression?';
 
 const mathSign = ['+', '-', '*'];
+
 const calc = (numberOne, numberTwo, operator) => {
   let rightAnswer = 0;
   switch (operator) {

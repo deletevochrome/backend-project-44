@@ -2,7 +2,7 @@ import allGames from '../index.js';
 
 import randomInt from '../utils.js';
 
-const isEven = (num) => num % 2 === 0;
+const isEven = (number) => number % 2 === 0;
 
 const descEven = 'Answer "yes" if the number is even, otherwise answer "no".';
 
