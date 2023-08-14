@@ -1,0 +1,83 @@
+[33mcommit cd6eb12c5d10c6a59fcd5bb5e669b591b2f2564f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Vasilii Orlov <vasilii.orlov1905@gmail.com>
+Date:   Mon Aug 14 21:52:37 2023 +0300
+
+    project done, brain-prog, brain-prime
+
+[33mcommit 0e407d02421cc910377bced1e2022a116f263cce[m
+Author: Vasilii Orlov <vasilii.orlov1905@gmail.com>
+Date:   Sun Aug 13 17:41:21 2023 +0300
+
+    fix brain-gcd
+
+[33mcommit df13b8f5af279dd56ca5dbcbaf3e312327cfef26[m
+Author: Vasilii Orlov <vasilii.orlov1905@gmail.com>
+Date:   Sat Aug 12 21:16:26 2023 +0300
+
+    brain-gcd
+
+[33mcommit acc9cd68acab2a76ff06275f5d4d08361d8fdf4b[m
+Author: Vasilii Orlov <vasilii.orlov1905@gmail.com>
+Date:   Sat Aug 12 20:44:53 2023 +0300
+
+    brain-calc
+
+[33mcommit 927cba85968334dfb2e3d6837bb5ebdd671cc451[m
+Author: Vasilii Orlov <vasilii.orlov1905@gmail.com>
+Date:   Sat Aug 12 20:08:43 2023 +0300
+
+    brain-even
+
+[33mcommit 594aab0545d75bdc207f7cc44f65bd6c7250b1fe[m
+Author: Vasilii Orlov <vasilii.orlov1905@gmail.com>
+Date:   Fri Aug 11 10:56:44 2023 +0300
+
+    fix readme
+
+[33mcommit 757254527685725be4a2bb172aedacfc81bbe5e5[m
+Author: Vasilii Orlov <vasilii.orlov1905@gmail.com>
+Date:   Fri Aug 11 10:54:43 2023 +0300
+
+    eslint
+
+[33mcommit d47f2caae470598124d3ddc8735a23b06eebd4bf[m
+Author: Vasilii Orlov <vasilii.orlov1905@gmail.com>
+Date:   Fri Aug 11 10:23:37 2023 +0300
+
+    fix greetings
+
+[33mcommit 9ab739e6012b76ce5a8dd970be42ec247fe552a3[m
+Author: Vasilii Orlov <vasilii.orlov1905@gmail.com>
+Date:   Fri Aug 11 10:22:04 2023 +0300
+
+    readlineSync
+
+[33mcommit 5c4a3400fb712e97907a09143ee902ae0ff8a697[m
+Author: Vasilii Orlov <vasilii.orlov1905@gmail.com>
+Date:   Fri Aug 11 10:13:15 2023 +0300
+
+    npm link
+
+[33mcommit 7bd53287422169be6ccff2fe63cb1af44afb16f4[m
+Author: Vasilii Orlov <vasilii.orlov1905@gmail.com>
+Date:   Tue Aug 8 21:38:30 2023 +0300
+
+    lots
+
+[33mcommit 54834e186d86c5dbe106a7026f644068744b66f5[m
+Author: Vasilii <115224982+deletevochrome@users.noreply.github.com>
+Date:   Tue Aug 8 10:22:44 2023 -0700
+
+    Add README.md
+
+[33mcommit 17c0c29bf27ef78a17ff04f8445708109f0a1d87[m
+Author: Vasilii <115224982+deletevochrome@users.noreply.github.com>
+Date:   Tue Aug 8 10:22:43 2023 -0700
+
+    Add README.md
+
+[33mcommit 3269270ee4cd7ab4069e987d8fc6c13a360e63ee[m
+Author: Vasilii <115224982+deletevochrome@users.noreply.github.com>
+Date:   Tue Aug 8 10:22:42 2023 -0700
+
+    Add hexlet-check.yml
