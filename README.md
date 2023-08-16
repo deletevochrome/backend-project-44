@@ -1,7 +1,13 @@
 ### Hexlet tests and linter status:
+npm install brain-games
+
 [![Actions Status](https://github.com/deletevochrome/backend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/deletevochrome/backend-project-44/actions)
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/3cce683274e9e1bf4885/maintainability)](https://codeclimate.com/github/deletevochrome/backend-project-44/maintainability)
+
+npm install brain-games
+
+To test enter: brain-games
 
 brain-even:
 [![asciicast](https://asciinema.org/a/xFmHzLo8QtF7upe64hKhTVi6r.svg)](https://asciinema.org/a/xFmHzLo8QtF7upe64hKhTVi6r)

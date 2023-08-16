@@ -7,21 +7,16 @@ const descCalc = 'What is the result of the expression?';
 const mathSign = ['+', '-', '*'];
 
 const calc = (numberOne, numberTwo, operator) => {
-  let rightAnswer = 0;
   switch (operator) {
     case '+':
-      rightAnswer = numberOne + numberTwo;
-      return rightAnswer;
+      return numberOne + numberTwo;
     case '-':
-      rightAnswer = numberOne - numberTwo;
-      return rightAnswer;
+      return numberOne - numberTwo;
     case '*':
-      rightAnswer = numberOne * numberTwo;
-      return rightAnswer;
+      return numberOne * numberTwo;
     default:
-      break;
+      return 'default';
   }
-  return rightAnswer;
 };
 
 const gameCalc = () => {

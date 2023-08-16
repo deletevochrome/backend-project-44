@@ -8,7 +8,7 @@ const gcdOfTwo = (a, b) => {
   if (b) {
     return gcdOfTwo(b, a % b);
   }
-  return Math.abs(a);
+  return a;
 };
 
 const gameGcd = () => {
