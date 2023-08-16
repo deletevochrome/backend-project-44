@@ -26,7 +26,6 @@
   },
   "homepage": "https://github.com/deletevochrome/backend-project-44#readme",
   "dependencies": {
-    "brain-games": "^1.1.5",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
