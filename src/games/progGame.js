@@ -6,19 +6,18 @@ const descProg = 'What number is missing in the progression?';
 
 const progressionLength = 10;
 
-const questionGenerator = () => {
+const questionGenerator = (step, first) => {
   const result = [];
-  const step = randomInt(1, 10);
-  const first = randomInt(1, 45);
   for (let i = 0; i < progressionLength; i += 1) {
-    result.push(first + i * step); // i = 0, first = 1, i = 1(step = 3 for example)
-    // second = 1 + 1 * 3 = 4, third is 1 + 2 * 3 = 7, and so on yay :)
+    result.push(first + i * step);
   }
   return result;
 };
 
 const gameProg = () => {
-  const result = questionGenerator();
+  const step = randomInt(1, 10);
+  const first = randomInt(1, 45);
+  const result = questionGenerator(step, first);
   const hiddenIndex = randomInt(0, 9);
   const rightAnswer = result[hiddenIndex];
   result[hiddenIndex] = '..';

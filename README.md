@@ -1,12 +1,20 @@
 ### Hexlet tests and linter status:
-npm install brain-games
+<!-- GETTING STARTED -->
+## Getting Started
+
+This is my first JavaScript project.
+
 
 [![Actions Status](https://github.com/deletevochrome/backend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/deletevochrome/backend-project-44/actions)
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/3cce683274e9e1bf4885/maintainability)](https://codeclimate.com/github/deletevochrome/backend-project-44/maintainability)
 
-npm install brain-games
-
+### Installation
+Install:
+   ```sh
+   npm install brain-games
+   ```
+## Usage
 To test enter: brain-games
 
 brain-even:
